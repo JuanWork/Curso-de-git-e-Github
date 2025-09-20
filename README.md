@@ -1,3 +1,4 @@
 # Meu Repositório de Autenticações - DIO
 
-Repositório de testes de autenticações.
+Entrando no meu repositório com o meu token de acesso;
+Repositório de testes de autenticações;
